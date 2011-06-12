@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple/DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FullskiesBlueClouded.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+		<key>w</key>
+		<integer>1024</integer>
+		<key>h</key>
+		<integer>262</integer>
+		<key>offsetX</key>
+		<integer>0</integer>
+		<key>offsetY</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>

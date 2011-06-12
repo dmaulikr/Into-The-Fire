@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>matariki</string>
+		<key>audio</key>
+		<string>L001W1</string>
+		<key>meaning</key>
+		<string>n. Pleiades</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>atua</string>
+		<key>audio</key>
+		<string>L001W2</string>
+		<key>meaning</key>
+		<string>n. God, demon, supernatural being</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>kiwi</string>
+		<key>audio</key>
+		<string>L001W3</string>
+		<key>meaning</key>
+		<string>Small flightless bird</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>moko</string>
+		<key>audio</key>
+		<string>L001W4</string>
+		<key>meaning</key>
+		<string>A general term for lizards</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>mana</string>
+		<key>audio</key>
+		<string>L001W5</string>
+		<key>meaning</key>
+		<string>n. Authority, control</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>k_aore</string>
+		<key>audio</key>
+		<string>L001W6</string>
+		<key>meaning</key>
+		<string>ad. No, not</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>_ae</string>
+		<key>audio</key>
+		<string>L001W7</string>
+		<key>meaning</key>
+		<string>ad. Yes</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>wh_anau</string>
+		<key>audio</key>
+		<string>L001W8</string>
+		<key>meaning</key>
+		<string>v.i. Be born</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>hoa</string>
+		<key>audio</key>
+		<string>L001W9</string>
+		<key>meaning</key>
+		<string>n. Friend, mate, companion</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>p_akeh_a</string>
+		<key>audio</key>
+		<string>L001W10</string>
+		<key>meaning</key>
+		<string>n. A person of predominantly European decent</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor
+END
+config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/config_types.h
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/block.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/misc.h
+END
+floor0.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/floor0.c
+END
+floor1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/floor1.c
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/CHANGELOG
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/registry.c
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/os_types.h
+END
+mapping0.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/mapping0.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/registry.h
+END
+codec_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/codec_internal.h
+END
+backends.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/backends.h
+END
+ivorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/ivorbisfile.h
+END
+framing.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/framing.c
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/codebook.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/os.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/COPYING
+END
+ivorbisfile_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/ivorbisfile_example.c
+END
+synthesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/synthesis.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/autogen.sh
+END
+codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/codebook.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/info.c
+END
+lsp_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/lsp_lookup.h
+END
+vorbisfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/vorbisfile.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/configure.in
+END
+window_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/window_lookup.h
+END
+bitwise.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/bitwise.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/window.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/README
+END
+res012.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/res012.c
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/window.h
+END
+ivorbiscodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/ivorbiscodec.h
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/ogg.h
+END
+sharedbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/sharedbook.c
+END
+asm_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/asm_arm.h
+END
+mdct_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/mdct_lookup.h
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/mdct.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/Makefile.am
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/block.c
+END
+mdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/mdct.h
+END
+Version_script.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/intothefire/!svn/ver/2/trunk/Support/external/Tremor/Version_script.in
+END
